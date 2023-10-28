@@ -23,7 +23,9 @@ Certainly! Here are three practice projects to help you practice JSX and compone
 2. Import `MyComponent` at the top of the file.
 3. Replace the content of the `return` statement in the `App` component with an instance of `MyComponent`.
 
-**Step 4:** Run the application.
+**Step 4:** Style your Navbar using CSS.
+
+**Step 5:** Run the application.
 
 1. In the project directory, run `npm start`.
 2. Open your browser to view the simple React application using your custom component.
