@@ -88,5 +88,30 @@ Certainly! Here are three practice projects to help you practice JSX and compone
 
 ```
 
+```
+/* Navbar.css */
+
+.navbar {
+  background-color: #333;
+  color: white;
+  padding: 10px 20px;
+}
+
+.navbar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.navbar li {
+  display: inline;
+  margin-right: 20px;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: white;
+}
+```
+
 
 End of practice Projects
