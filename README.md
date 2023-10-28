@@ -47,10 +47,10 @@ Certainly! Here are three practice projects to help you practice JSX and compone
 2. Import `Navbar` at the top of the file.
 3. Replace the content of the `return` statement in the `App` component with an instance of `Navbar`.
 
-**Step 4:** Style your Navbar using CSS.
+**Step 4:** Style your App using CSS.
 
 
-# CSS files
+**CSS files**
 
 ```
 /* MyComponent.css */
